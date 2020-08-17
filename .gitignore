@@ -1,0 +1,7 @@
+.idea/tasks.xml
+.idea/workspace.xml
+.idea/shelf/
+.idea/usage.statistics.xml
+*.class
+out/
+*.swp
