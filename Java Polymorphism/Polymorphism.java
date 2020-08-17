@@ -21,7 +21,7 @@ class Dog extends Animal {
   }
 }
 
-class MyMainClass {
+class Polymorphism {
   public static void main(String[] args) {
     Animal myAnimal = new Animal();  // Create a Animal object
     Animal myPig = new Pig();  // Create a Pig object

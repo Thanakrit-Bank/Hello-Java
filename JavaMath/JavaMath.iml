@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Math_abs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Math_min" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Math_sqrt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Math_max" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Math_random" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

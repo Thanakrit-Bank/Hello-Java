@@ -6,11 +6,11 @@
 // The get method returns the variable value, and the set method sets the value.
 
 // Encapsulation 
-public class Person {
-  private String name; // private = restricted access
+  public class Person {
+    private String name; // private = restricted access
 
-  // Getter
-  public String getName() {
+    // Getter
+    public String getName() {
     return name; // returns the value of the variable name
   }
 
